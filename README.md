@@ -1,3 +1,22 @@
+# 💫 Hi 👋, I'm Aditya Inamdar
+**A passionate Full Stack Web Developer || ML Enthusiast**
+
+Email Me 👉 ✉️ **inamdar.s.aditya@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+Hi, I'm Aditya Inamdar, a driven and creative AI & Java Developer who enjoys building meaningful tech solutions. I’m passionate about using both traditional software development and modern AI tools to solve complex, real-world problems.
+
+
+**🌱 Learning Path**
+
+Right now, I’m focused on mastering:
+
+Java backend development
+
+Spring Boot and Hibernate
+
+Data Structures and Algorithms
+
+Web Stacks like MERN & Next.js
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-inamdar-7aa02724b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:inamdar.s.aditya@gmail.com) 
